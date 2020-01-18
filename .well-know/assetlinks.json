@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.billeto.merchant",
+    "sha256_cert_fingerprints":
+    ["BE:F7:7F:8D:D8:70:FE:12:69:38:0D:43:B7:4A:2C:A4:73:54:35:4F:07:A0:06:48:93:44:40:8A:52:CD:9A:09"]
+  }
+}]
